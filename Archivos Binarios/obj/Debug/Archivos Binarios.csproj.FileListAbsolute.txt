@@ -1,0 +1,7 @@
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\bin\Debug\Archivos Binarios.exe.config
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\bin\Debug\Archivos Binarios.exe
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\bin\Debug\Archivos Binarios.pdb
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\obj\Debug\Archivos Binarios.csproj.AssemblyReference.cache
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\obj\Debug\Archivos Binarios.csproj.CoreCompileInputs.cache
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\obj\Debug\Archivos Binarios.exe
+C:\Users\AERO COOL\Documents\GitHub\EscrituraBinaria\Archivos Binarios\obj\Debug\Archivos Binarios.pdb
